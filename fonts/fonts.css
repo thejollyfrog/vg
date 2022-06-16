@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'll-regular';
+    src: url('ll-regular.woff2') format('woff2'),
+         url('ll-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'll-semibold';
+    src: url('ll-semibold.woff2') format('woff2'),
+         url('ll-semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'll-bold';
+    src: url('ll-bold.woff2') format('woff2'),
+         url('ll-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'll-mono';
+    src: url('ll-mono.woff2') format('woff2'),
+         url('ll-mono.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'll-initial';
+    src: url('ll-initial.woff2') format('woff2'),
+         url('ll-initial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'll-display';
+    src: url('ll-display.woff2') format('woff2'),
+         url('ll-display.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nsans-regular';
+    src: url('nsans-regular.woff2') format('woff2'),
+         url('nsans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
