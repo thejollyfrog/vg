@@ -310,7 +310,7 @@ img.post-full-image {position: absolute; width: 100%; transform: translateX(50%)
 .post-head-wrapper {display: grid;  grid-template-columns: 120px auto; margin: 0 0 40px;}
 h1.full-post-title {margin: 0 0 10px 0; font-size: 2.5em; color: #444; line-height: 1.1; font-family: 'll-regular', serif;}
 .full-post-meta{text-align:right;}
-.post-content p:first-of-type:not(.author-bio p, blockquote p) {padding-bottom: 20px; margin-top: 2em;font-style: oblique; font-family: 'll-regular', serif; font-size: 1.4em; border-bottom: 1px solid rebeccapurple;}
+.post-content p:first-of-type:not(.author-bio p, blockquote p) {padding-bottom: 20px; margin-top: 2em;font-style: oblique; font-family: 'll-regular', serif; font-size: 1.4em; /*border-bottom: 1px solid rebeccapurple;*/}
 .post-content h2, .page-content h2 {font-family: 'll-regular'; margin: 2em 0 .4em 0; font-size: 2.2rem; font-weight: 700; color: teal; line-height: 1.2;}
 .post-content:first-child::first-letter {display: block; float: left; padding-right: 12px; padding-top: 8.6px; font-size: 5.7em; line-height: .62; margin-bottom: -10px; color: #27af56!important; font-family: 'll-mono', serif; font-weight: normal; font-style: initial;}
 .post-content blockquote p:first-of-type {all: unset;}
